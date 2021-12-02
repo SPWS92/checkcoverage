@@ -6,6 +6,10 @@
 	"engines": {
 		"vscode": "^1.62.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SPWS92/checkcoverage"
+	},
 	"categories": [
 		"Other"
 	],
